@@ -1,0 +1,15 @@
+Nasa link:
+(need a key)
+
+https://api.nasa.gov/
+https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY
+
+The solar system open data:
+(no key)
+
+https://api.le-systeme-solaire.net/en/
+https://api.le-systeme-solaire.net/rest/bodies/{id}
+
+
+var mykey = "3PJTMTlKhpkRlCtxoaLmFX3ZvTKmo374yKM4LIRo";
+
